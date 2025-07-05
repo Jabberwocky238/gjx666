@@ -62,7 +62,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: '案例展示',
-    Img: require('@site/static/img/sample5.jpg').default,
+    Img: require('@site/static/img/sample6.jpg').default,
     description: (
       <>
         展示我们的成功案例和项目成果，通过照片和文字详细介绍
