@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "Abshir Express",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Abshir Express",
+    "description": "The alt text of navbar logo"
+  }
+}

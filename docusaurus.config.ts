@@ -33,7 +33,17 @@ const config: Config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'zh-Hans'],
+    localeConfigs: {
+      'en': {
+        label: 'English',
+        htmlLang: 'en-US',
+      },
+      'zh-Hans': {
+        label: '简体中文',
+        htmlLang: 'zh-Hans',
+      },
+    },
   },
 
   presets: [
@@ -78,7 +88,12 @@ const config: Config = {
         alt: 'Abshir Express',
         src: 'img/logo.jpg',
       },
+      
       items: [
+        {
+          type: 'localeDropdown',
+          position: 'right',
+        },
         // {
         //   type: 'docSidebar',
         //   sidebarId: 'tutorialSidebar',
