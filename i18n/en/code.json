@@ -357,5 +357,14 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "homepage.about.founder": {
+    "message": "Dr.Abshir Isse<br />Founder of Abshir Express<br />Tsinghua University Doctor<br />600,000 Fans"
+  },
+  "homepage.about.title": {
+    "message": "About Abshir Express"
+  },
+  "homepage.about.content": {
+    "message": "Abshir Express is a comprehensive cross-border e-commerce platform founded by Dr. Abshir Isse, a serial entrepreneur. Dr. Abshir Isse, as a Tsinghua University doctor, is committed to promoting the international development of small and medium-sized enterprises with his profound academic background and global vision. His innovative educational practices have also been widely recognized - since May 2024, he has gained widespread attention through multi-language Chinese teaching videos globally, with cumulative viewership exceeding 400 million times, covering 170 countries and regions, and serving over 2,900 students, demonstrating the deep integration of cross-cultural communication and digital education. As a pioneer in the B2B跨境电商领域, Abshir Express focuses on providing end-to-end digital trade solutions for global small and medium-sized enterprises. The platform takes \"efficient connection and growth empowerment\" as its core concept, building an all-encompassing service chain covering cross-border procurement, intelligent warehousing and logistics, cross-border payment and financial services, full-chain customer support, risk control system, customs clearance and international remittance. Through technological innovation and resource integration, Abshir Express aims to break through traditional trade barriers, help Chinese manufacturers accurately connect with global markets, provide compliant and convenient cross-border trade channels for overseas enterprises, and drive the digital upgrade and sustainable development of the global supply chain. The platform adopts an intelligent operation mode, relying on big data analysis and artificial intelligence technology, providing precise business insights and market expansion strategies for small and medium-sized enterprises, and continuously injecting innovation energy into the global trade ecosystem."
   }
 }

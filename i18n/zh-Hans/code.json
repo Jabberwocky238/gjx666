@@ -357,5 +357,14 @@
   "theme.tags.tagsPageTitle": {
     "message": "标签",
     "description": "The title of the tag list page"
+  },
+  "homepage.about.founder": {
+    "message": "Dr.Abshir Isse<br />小布汉语创始人<br />Abshir Express创始人<br />天津大学博士<br />全网60万粉丝"
+  },
+  "homepage.about.title": {
+    "message": "关于Abshir Express"
+  },
+  "homepage.about.content": {
+    "message": "Abshir Express是由连续创业者Dr. Abshir Isse创立的跨境电子商务综合服务平台。Dr. Abshir Isse作为天津大学博士，凭借其深厚的学术背景与全球化视野，致力于推动中小企业的国际化发展。其创新的教育实践亦备受认可——自2024年5月起，他通过多语种中文教学视频在全球范围内获得广泛关注，累计播放量突破4亿次，覆盖170个国家及地区，累计服务学员超2900名，彰显了跨文化交流与数字化教育的深度融合。\n              作为B2B跨境电商领域的开拓者，Abshir Express专注于为全球中小型企业提供端到端的数字化贸易解决方案。平台以\"高效连接、赋能增长\"为核心理念，构建了涵盖跨境采购、智能仓储与物流、跨境支付与金融服务、全链路客户支持、风险管控体系、海关清关及国际汇款等核心业务的全生态服务链。通过技术创新与资源整合，Abshir Express致力于打破传统贸易壁垒，助力中国制造商精准对接全球市场，同时为海外企业提供合规、便捷的跨境贸易通道，推动全球供应链的数字化升级与可持续发展。\n平台采用智能化运营模式，依托大数据分析与人工智能技术，为中小企业提供精准的商业洞察与市场拓展策略，持续为全球贸易生态注入创新动能。"
   }
 }
